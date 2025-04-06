@@ -21,7 +21,7 @@ This system was designed with scalability, data integrity, and real-world applic
 
 ## ⚙️ Tech Stack
 
-- **MySQL Workbench** – SQL scripting and schema validation
+- **MySQL** – SQL scripting and schema validation
 - **draw.io** – ERD design and modeling
 - **GitHub** – Version control and collaboration
 
