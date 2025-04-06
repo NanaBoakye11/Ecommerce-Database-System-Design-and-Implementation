@@ -70,12 +70,6 @@ This database design can be adapted for:
 
 ---
 
-## 🧾 License
+## Author
 
-This project is open source and available under the [MIT License](LICENSE) (or specify your own license).
-
----
-
-## 🙌 Author
-
-Designed and implemented by **Nana Boakye-Yiadom**
+Designed and implemented by **Nana Boakye**
