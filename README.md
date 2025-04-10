@@ -55,7 +55,9 @@ All tables use UUIDs for primary keys, and triggers are implemented to normalize
 
 ## 🖼 ER Diagram Preview
 
-![EER Diagram](eer-diagram.png)
+![EER Diagram](FINALABA.drawio (4).png)
+
+![Ecommerce EER Database Diagram](https://github.com/NanaBoakye11/Ecommerce-Database-System-Design-and-Implementation/raw/main/FINALABA.drawio%20(4).png)
 
 ---
 
